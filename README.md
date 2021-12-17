@@ -1,4 +1,4 @@
-## Challenge 10 | SUMMARY
+## Unsupervised Machine Learning
 
 In this week’s challenge, I have created a machine learning model that groups cryptocurrencies to assemble investment portfolios that are based on the profitability of those cryptocurrencies. You'll be able evaluate and the contrast the best value of KMeans, explained variance ratios, elbow curves and clusters.
 
